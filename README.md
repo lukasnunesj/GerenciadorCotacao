@@ -1,6 +1,7 @@
-# gerenciador
+# Gerenciador de cotações
 
-> Gerenciador de cotações Álamo
+Esse projeto tinha como objetivo ser o front end para um gerenciador de cotações para uma empresa, mas o projeto foi cancelado e implementado usando outra linguagem. 
+Aqui se encontra apenas um protótipo que não foi continuado, mas como fiz muitas coisas com o <b>Vue</b> quis manter para fins de consulta.
 
 ## Build Setup
 
